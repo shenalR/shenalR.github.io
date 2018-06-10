@@ -1,0 +1,1 @@
+<?php include('../head.php') ?><h1> Company : 3</h1><br><h3> Job : 3</h3><br><p> 3</p>

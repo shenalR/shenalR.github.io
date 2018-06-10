@@ -1,0 +1,1 @@
+<?php include('../head.php') ?><h1> Company : Odel Factory</h1><br><h3> Job : Operators</h3><br><p> We need machine operators </p>
