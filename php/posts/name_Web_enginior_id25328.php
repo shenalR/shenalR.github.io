@@ -1,1 +1,0 @@
-<?php include('../head.php') ?><h1> Company : Offer Zone USA</h1><br><h3> Job : Web enginior</h3><br><p> We need web designers</p>
